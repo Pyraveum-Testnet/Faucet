@@ -1,2 +1,2 @@
 # faucet
-This repository hosts UI element of the Faucet system
+This repository hosts faucet code, which gives testnet PYR coins for testing purpose.
